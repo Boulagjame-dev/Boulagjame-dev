@@ -7,13 +7,6 @@
 # 💫 About Me:
 🔭 I’m currently working on building scalable End-to-End AI Solutions that orchestrate complex business logic using n8n, Power Automate, and IBM Watsonx.<br>👯 I’m looking to collaborate on high-impact AI Transformation projects where standard automation tools hit their limits and require custom Agentic Workflows.<br>🤝 I’m looking for help with benchmarking Enterprise LLM performance (Watsonx.ai vs Azure OpenAI) in high-throughput production environments.<br>🌱 I’m currently learning advanced RAG Architectures and AI Governance frameworks to deploy compliant AI agents in corporate infrastructures.<br>💬 Ask me about selecting the right stack for your problem: When to use n8n for speed vs. Watsonx for enterprise governance and scale.<br>⚡ Fun fact : I don't just build chatbots; I build digital workforces that handle the boring work while you sleep.
 
-### 🐍 My Coding Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boulagjame-dev/Boulagjame-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boulagjame-dev/Boulagjame-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Boulagjame-dev/Boulagjame-dev/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-boulagjame) 
 
@@ -23,6 +16,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=Boulagjame-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Boulagjame-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boulagjame-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🐍 My Coding Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boulagjame-dev/Boulagjame-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boulagjame-dev/Boulagjame-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Boulagjame-dev/Boulagjame-dev/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
