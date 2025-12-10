@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00BCD4&height=250&section=header&text=Zakaria%20Boulagjame&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Architect%20%7C%20n8n%20%7C%20WatsonX&descAlignY=55&descSize=25)
+
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Building+Scalable+AI+Solutions;Orchestrating+Complex+Business+Logic;Automating+the+Boring+Stuff" alt="Typing SVG" />
