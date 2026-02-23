@@ -9,7 +9,7 @@ name: Generate Snake Animation
      contents: write
 
    jobs:
-     build:
+     generate:
        runs-on: ubuntu-latest
        steps:
          - uses: Platane/snk@v3
