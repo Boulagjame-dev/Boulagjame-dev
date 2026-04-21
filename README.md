@@ -7,12 +7,20 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on building scalable End-to-End AI Solutions that orchestrate complex business logic using n8n, Power Automate, and IBM Watsonx.<br>
-👯 I’m looking to collaborate on high-impact AI Transformation projects where standard automation tools hit their limits and require custom Agentic Workflows.<br>
-🤝 I’m looking for help with benchmarking Enterprise LLM performance (Watsonx.ai vs Azure OpenAI) in high-throughput production environments.<br>
-🌱 I’m currently learning advanced RAG Architectures and AI Governance frameworks to deploy compliant AI agents in corporate infrastructures.<br>
-💬 Ask me about selecting the right stack for your problem: When to use n8n for speed vs. Watsonx for enterprise governance and scale.<br>
-⚡ Fun fact : I don't just build chatbots; I build digital workforces that handle the boring work while you sleep.
+  I don't build chatbots. I build the infrastructure that replaces entire departments of repetitive work.
+
+  As an **AI Solutions Architect**, I design and deploy **end-to-end agentic systems** — the kind that run complex
+  business logic 24/7 using n8n, Power Automate, and IBM Watsonx. My focus is where standard automation tools break down
+   and custom orchestration takes over.
+
+  Currently deep in **advanced RAG architectures** and **AI Governance frameworks** — because deploying an agent in a
+  corporate environment without a compliance layer isn't deployment, it's a liability.
+
+  If you're choosing between platforms, I can help you answer the question most architects avoid: **when does n8n's
+  speed beat Watsonx's governance, and when does it get you fired?**
+
+  Open to high-impact **AI Transformation projects** and enterprise teams who need someone that's already made the stack
+   selection mistakes so they don't have to.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-boulagjame) 
