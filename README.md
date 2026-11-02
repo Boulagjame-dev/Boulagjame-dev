@@ -1,37 +1,191 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Zakaria%20Boulagjame&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Architect%20%7C%20n8n%20%7C%20WatsonX%20%7C%20Zapier%20%7C%20Make&descAlignY=55&descSize=25&fontColor=333333)
-
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Building+Scalable+AI+Solutions;Orchestrating+Complex+Business+Logic;Automating+the+Boring+Stuff" alt="Typing SVG" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080812,50:102B50,100:1565C0&height=260&section=header&text=ZAKARIA%20BOULAGJAME&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=AI%20SYSTEMS%20%7C%20AGENTIC%20ENGINEERING%20%7C%20AUTOMATION&descAlign=50&descAlignY=60&descSize=16" width="100%" />
 </div>
 
-#  About Me:
-  I don't build chatbots. I build the infrastructure that replaces entire departments of repetitive work.
+<div align="center">
 
-  As an **AI Solutions Architect**, I design and deploy **end-to-end agentic systems** — the kind that run complex
-  business logic 24/7 using n8n, Power Automate, and IBM Watsonx. My focus is where standard automation tools break down
-   and custom orchestration takes over.
+### Engineering intelligent systems. Orchestrating AI. Automating the real world.
 
-  Currently deep in **advanced RAG architectures** and **AI Governance frameworks** — because deploying an agent in a
-  corporate environment without a compliance layer isn't deployment, it's a liability.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zakaria-boulagjame)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Boulagjame-dev)
 
-  If you're choosing between platforms, I can help you answer the question most architects avoid: **when does n8n's
-  speed beat Watsonx's governance, and when does it get you fired?**
+</div>
 
-  Open to high-impact **AI Transformation projects** and enterprise teams who need someone that's already made the stack
-   selection mistakes so they don't have to.
+---
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-boulagjame) 
+## `> whoami`
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+I'm **Zakaria Boulagjame**, an AI Systems & Workflow Automation specialist focused on building intelligent, connected and scalable business solutions.
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Boulagjame-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Boulagjame-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boulagjame-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I operate at the intersection of **Agentic AI, software architecture, workflow orchestration and business automation**.
+
+I don't just build chat interfaces. I engineer systems that combine reasoning engines, external tools, structured knowledge, APIs and autonomous workflows to solve operational problems.
+
+**My engineering focus:**
+
+- Agentic AI systems and multi-agent orchestration.
+- Advanced RAG pipelines and knowledge engineering.
+- AI-powered business process automation.
+- API-first architectures and distributed workflows.
+- LLM integration, evaluation and observability.
+- Intelligent applications designed around real business needs.
+
+> **Build systems, not just prompts. Automate processes, not just tasks.**
+
+## `> core_expertise`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Agentic AI Engineering
+
+- AI agent architectures
+- Multi-agent systems
+- ReAct reasoning patterns
+- Tool calling & function execution
+- LangGraph orchestration
+- MCP & A2A protocols
+- Human-in-the-loop systems
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Intelligent Automation
+
+- n8n workflow engineering
+- API orchestration
+- Event-driven automation
+- Webhooks & integrations
+- WhatsApp & Telegram agents
+- Business process automation
+- Cross-platform systems
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Knowledge Engineering
+
+- Advanced RAG architectures
+- Semantic & hybrid search
+- Vector databases
+- Embedding pipelines
+- Knowledge graphs
+- Context engineering
+- Document intelligence
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Systems & Infrastructure
+
+- Backend architecture
+- Distributed systems
+- Database engineering
+- Containerization
+- Cloud infrastructure
+- AI observability
+- LLM evaluation & testing
+
+</td>
+</tr>
+</table>
+
+## `> technology_stack`
+
+**01 / AI, LLMs & Agent Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7856FF?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![IBM Watsonx](https://img.shields.io/badge/IBM_Watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+**02 / Agentic Protocols & Workflow Orchestration**
+
+![MCP](https://img.shields.io/badge/MCP-6554C0?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-4285F4?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+
+**03 / Vector Search, Databases & Knowledge Infrastructure**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-00A98F?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**04 / Backend, APIs & Development**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+
+**05 / DevOps, Cloud & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**06 / Observability, Evaluation & Quality Engineering**
+
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas-7057FF?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**07 / Modern UI, UX & Creative Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+## `> engineering_background`
+
+My background combines scientific research, entrepreneurship and technology.
+
+- **Medical Physics:** Scientific computing, computational biology, analytical research and problem-solving.
+- **Entrepreneurship:** E-commerce, B2B operations and digital business development.
+- **AI Engineering:** Turning business requirements into intelligent technical architectures.
+
+I believe great engineering starts with understanding the problem before choosing the technology.
+
 
 ###  My Coding Activity
  <picture>
@@ -43,8 +197,12 @@
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Boulagjame-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=Boulagjame-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+### THINK IN SYSTEMS. BUILD WITH INTELLIGENCE.
+
+**Turning complex business processes into intelligent, connected systems.**
+
+[LinkedIn](https://linkedin.com/in/zakaria-boulagjame) · [GitHub](https://github.com/Boulagjame-dev)
+
+</div>
